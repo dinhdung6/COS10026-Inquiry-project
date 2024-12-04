@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../PythonAI"
+		},
+		{
+			"path": "../../../../Downloads/assign1/assign1"
+		},
+		{
+			"path": "../../../Intelligent-system"
+		},
+		{
+			"path": "../../../../Downloads/COS30018-project--main/COS30018-project--main"
+		},
+		{
+			"path": "../../../../Downloads/Assignment1/Assignment1"
+		},
+		{
+			"path": "../../../../Downloads/ASTGCN-2019-mxnet-master/ASTGCN-2019-mxnet-master"
+		},
+		{
+			"path": "../../../../Downloads/DSTAGNN-main/DSTAGNN-main"
+		},
+		{
+			"path": "../../../Assign1/Assign1"
+		},
+		{
+			"path": "../../../../Downloads/Assignment1proto/Assignment1proto"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Inquiry"
+	}
+}
